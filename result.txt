@@ -1,0 +1,34 @@
+loop for213.241.55.
+zmienna1.55.241.213
+Checking b.barracudacentral.org, 1 of 2... [OK]
+Checking cbl.abuseat.org, 2 of 2... [OK]
+213.241.55.1 listed on 0 of 2 known blacklists
+zmienna2.55.241.213
+Checking b.barracudacentral.org, 1 of 2... [OK]
+Checking cbl.abuseat.org, 2 of 2... [OK]
+213.241.55.2 listed on 0 of 2 known blacklists
+zmienna3.55.241.213
+Checking b.barracudacentral.org, 1 of 2... [OK]
+Checking cbl.abuseat.org, 2 of 2... [OK]
+213.241.55.3 listed on 0 of 2 known blacklists
+zmienna4.55.241.213
+Checking b.barracudacentral.org, 1 of 2... [OK]
+Checking cbl.abuseat.org, 2 of 2... [OK]
+213.241.55.4 listed on 0 of 2 known blacklists
+loop for214.231.22.
+zmienna1.22.231.214
+Checking b.barracudacentral.org, 1 of 2... [OK]
+Checking cbl.abuseat.org, 2 of 2... [OK]
+214.231.22.1 listed on 0 of 2 known blacklists
+zmienna2.22.231.214
+Checking b.barracudacentral.org, 1 of 2... [OK]
+Checking cbl.abuseat.org, 2 of 2... [OK]
+214.231.22.2 listed on 0 of 2 known blacklists
+zmienna3.22.231.214
+Checking b.barracudacentral.org, 1 of 2... [OK]
+Checking cbl.abuseat.org, 2 of 2... [OK]
+214.231.22.3 listed on 0 of 2 known blacklists
+zmienna4.22.231.214
+Checking b.barracudacentral.org, 1 of 2... [OK]
+Checking cbl.abuseat.org, 2 of 2... [OK]
+214.231.22.4 listed on 0 of 2 known blacklists
